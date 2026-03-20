@@ -11,33 +11,16 @@ I'm a **Frontend Developer** at **Sajilo Digital** with a passion for building b
 
 ---
 
-## 🌱 Currently Learning
-- Advanced ReactJS Patterns  
-- Modern Python for Web and Automation  
-- Web3 and Cloud Technologies  
-
----
-
 ## 🔭 Currently Working On
 - Frontend development projects at Sajilo Digital  
-- Personal web apps and portfolio projects  
-- Open-source contributions in ReactJS  
 
 ---
 
 ## 📫 How to Reach Me
-- Email: bijay@example.com  
-- LinkedIn: [linkedin.com/in/bijaychaudhary](https://linkedin.com/in/bijaychaudhary)  
-- Twitter: [@bijaycodes](https://twitter.com/bijaycodes)  
+- Email: bijaykuc45@gmail.com   
 
 ---
 
-## ⚡ Fun Facts
-- Coffee fuels my late-night coding sessions ☕  
-- I enjoy learning new frameworks and experimenting with UI designs  
-- I love contributing to open-source  
-
----
 
 ## 📊 GitHub Stats
 
