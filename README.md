@@ -7,7 +7,7 @@ I'm a **Frontend Developer** at **Sajilo Digital** with a passion for building b
 ## 💻 Skills
 - **Frontend:** HTML, CSS, JavaScript, ReactJS, TailwindCSS  
 - **Programming Languages:** JavaScript, Python  
-- **Other:** Responsive Design, UI/UX  
+- **Other:** Responsive Design, UI/UX, Graphics Designing  
 
 ---
 
