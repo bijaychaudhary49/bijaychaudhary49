@@ -12,7 +12,7 @@
 
 <div align="center">
 
- <img src="https://media.giphy.com/media/jJKMIAScMCemDNVyj4/giphy.gif" width="380" height="500" alt="coding gif"/>
+<img src="./giphy.gif" width="380" height="500" alt="coding gif"/>
 
   <br/>
   <em>no commits today. just thoughts. 💙</em>
