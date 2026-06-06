@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwNWYyYWFhN2JsaWpqbG9pczNia2FueWZseTR5cWszMWZ4YnN5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJKMIAScMCemDNVyj4/giphy.gif" width="380" height="500" alt="coding gif"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3BwNWYyYWFhN2JsaWpqbG9pczNia2FueWZseTR5cWszMWZ4YnN5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJKMIAScMCemDNVyj4/giphy.gif" width="380" alt="coding gif"/>
   <br/>
   <em>no commits today. just thoughts. 💙</em>
 </div>
