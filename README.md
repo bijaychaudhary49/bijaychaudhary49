@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<img src="./giphy.gif" width="380" height="300" alt="coding gif"/>
+<img src="./giphy.gif" width="380" height="500" alt="coding gif"/>
 
   <br/>
   <em>no commits today. just thoughts. 💙</em>
@@ -34,15 +34,15 @@ const bijay = {
 };
 ```
 
-- 🔭 Currently building production-grade web apps at **Sajilo Digital**
-- 🎨 I care deeply about **design** — interfaces should be as beautiful as they are functional
-- 🧑‍🏫 Part-time **CS Teacher** — taught Grade 9 students Python & QBASIC
-- 🌱 Always learning — currently exploring **Next.js** and advanced **React patterns**
-- 📬 Reach me at **bijaykuc45@gmail.com**
+- 😀 Currently building production-grade web apps at **Sajilo Digital**
+- 😀 I care deeply about **design** — interfaces should be as beautiful as they are functional
+- 😀 Part-time **CS Teacher** — taught Grade 9 students Python & QBASIC
+- 😀 Always learning — currently exploring **Next.js** and advanced **React patterns**
+- 😀 Reach me at **bijaykuc45@gmail.com**
 
 ---
 
-## 🌱 What I'm Learning
+## What I'm Learning
 
 <div align="center">
 
@@ -57,7 +57,7 @@ const bijay = {
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -86,7 +86,7 @@ const bijay = {
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
@@ -97,7 +97,7 @@ const bijay = {
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -114,7 +114,7 @@ const bijay = {
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <div align="center">
 
