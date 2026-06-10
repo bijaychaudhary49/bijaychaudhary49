@@ -29,8 +29,8 @@ const bijay = {
   education   : "BSc. CSIT",
   currentWork : "Sajilo Digital",
   passion     : ["Clean UI", "Scalable Code", "Great UX"],
-  openTo      : "Remote Frontend Opportunities 🌏",
-  funFact     : "I also teach CS — because I love simplifying complex ideas 🎓"
+  openTo      : "Remote Frontend Opportunities",
+  funFact     : "I also teach CS — because I love simplifying complex ideas"
 };
 ```
 
